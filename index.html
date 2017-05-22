@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sedes Fundação Logosófica</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var timboCoords = {lat: -26.831822, lng: -49.265328};
+        var brasiliaCoords = {lat: -15.793889, lng: -47.882778};
+
+        var mainCoords = timboCoords;
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 8,
+          center: mainCoords
+        });
+
+        fetch('sedes.json')
+        .then(response => response.json())
+        .then(branches => {
+            branches.forEach(function(branch) {
+                if (branch.latitude == 0) return;
+                var marker = new google.maps.Marker({
+                    position: {
+                        lat: branch.latitude,
+                        lng: branch.longitude
+                    },
+                    map: map,
+                    title: `${branch.city} | ${branch.address}`
+                });
+            }, this);
+        });
+        
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhcx-iCboxNGj-aAqE4e3B17sxLmhoihE&callback=initMap">
+    </script>
+</body>
+</html>

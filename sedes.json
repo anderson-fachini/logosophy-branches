@@ -1,0 +1,195 @@
+[
+    {
+        "city": "Balneário Camboriú",
+        "latitude": -26.994483,  
+        "longitude": -48.634835,
+        "address": "Rua 1950 , 634/casa - Centro" 
+    },
+    {
+        "city": "Blumenau",
+        "latitude": -26.893435, 
+        "longitude": -49.083006,
+        "address": "Rua São Paulo, 2963 - Itoupava Seca" 
+    },
+    {
+        "city": "Brusque",
+        "latitude": -27.084590, 
+        "longitude": -48.912153,
+        "address": "Rua: Otto Renaux, 500 sala 13, 500/sala 13 - centro" 
+    },
+    {
+        "city": "Chapecó",
+        "latitude": -27.107808, 
+        "longitude": -52.619865,
+        "address": "R. Clevelândia , 1389/D - SAIC" 
+    },
+    {
+        "city": "Concórdia",
+        "latitude": -27.230048, 
+        "longitude": -52.025951,
+        "address": "Rua Getúlio Vargas, 85/2º andar - Centro" 
+    },
+    {
+        "city": "Criciúma",
+        "latitude": -28.674334, 
+        "longitude": -49.372800,
+        "address": "Avenida Getúlio Vargas, 485/Ed. Bologna , Sala 41 - centro" 
+    },
+    {
+        "city": "Florianópolis",
+        "latitude": -27.612833, 
+        "longitude": -48.525819,
+        "address": "Rua Dep. Antonio Edu Vieira , 150/ - Pantanal" 
+    },
+    {
+        "city": "Imbituba",
+        "latitude": -28.240155, 
+        "longitude": -48.669264,
+        "address": "Avenida Santa Catarina, 819/ - Paes Leme" 
+    },
+    {
+        "city": "Jaraguá do Sul",
+        "latitude": -26.478897, 
+        "longitude": -49.108806,
+        "address": "Therezita Menegotti Rocha, 110/Casa - Água Verde" 
+    },
+    {
+        "city": "Joaçaba",
+        "latitude": -27.172333, 
+        "longitude": -51.507798,
+        "address": "Av. Barão do Rio Branco, 478/3º andar - Centro" 
+    },
+    {
+        "city": "Joinville",
+        "latitude": -26.267679, 
+        "longitude": -48.836135,
+        "address": "Rua Piratuba, 1.100/Prédio - Bom Retiro" 
+    },
+    {
+        "city": "Lages",
+        "latitude": -26.267684,  
+        "longitude": -48.836136,
+        "address": "R. José Ma. Antunes Ramos, 35 - Universitário" 
+    },
+    {
+        "city": "Mafra",
+        "latitude": -26.127476, 
+        "longitude": -49.805775,
+        "address": "Rua Siqueira Campos, 333/ - Alto de Mafra" 
+    },
+    {
+        "city": "Rio do Sul",
+        "latitude": -27.209136, 
+        "longitude": -49.634796,
+        "address": "Al. Bela Aliança, 1162/ - Jardim América" 
+    },
+    {
+        "city": "São Bento do Sul",
+        "latitude": -26.246098, 
+        "longitude": -49.373233,
+        "address": "Rua Doutor Cominese, 90/ - Centro" 
+    },
+    {
+        "city": "Seara",
+        "latitude": -27.147996, 
+        "longitude": -52.309471,
+        "address": "R. Vicente Rech , 230/Cx Postal 04 - Centro" 
+    },
+    {
+        "city": "Timbó",
+        "latitude": -26.831822, 
+        "longitude": -49.265328,
+        "address": "Rua Eduardo Frederico Mayr, 164 - Quintino" 
+    },
+    {
+        "city": "Tubarão",
+        "latitude": -28.479424, 
+        "longitude": -49.013450,
+        "address": "Rua Antonio Hulse, 541/ - Humaitá" 
+    },
+    {
+        "city": "Videira",
+        "latitude": -27.011091, 
+        "longitude": -51.151056,
+        "address": "Avenida Dom Pedro II, 47/apto 01 - Centro" 
+    },
+    {
+        "city": "Bagé",
+        "latitude": -31.313132,  
+        "longitude": -54.093911,
+        "address": "Rua Barão do Itaqui, 730/ - Getúlio Vargas" 
+    },
+    {
+        "city": "Caxias do Sul",
+        "latitude": -29.161749, 
+        "longitude": -51.178196,
+        "address": "Avenida São João, 1669/Casa - Centro" 
+    },
+    {
+        "city": "Erechim",
+        "latitude": -27.638038, 
+        "longitude": -52.280728,
+        "address": "Rua Salgado Filho, 737/ - Centro" 
+    },
+    {
+        "city": "Passo Fundo",
+        "latitude": -28.264062, 
+        "longitude": -52.395692,
+        "address": "Rua Coronel Pelegrini, 473/ - Vila Rodrigues" 
+    },
+    {
+        "city": "Porto Alegre",
+        "latitude": -30.028311, 
+        "longitude": -51.203678,
+        "address": "Rua Mostardeiro, 366/sala 501 - Moinhos de Vento" 
+    },
+    {
+        "city": "Rio Grande",
+        "latitude": -32.031584, 
+        "longitude": -52.096354,
+        "address": "Rua General Bacelar, 293/ - Centro" 
+    },
+    {
+        "city": "São Leopoldo",
+        "latitude": -29.768000, 
+        "longitude": -51.132889,
+        "address": "Rua São José, 617/ - São José" 
+    },
+    {
+        "city": "Cascavel",
+        "latitude": -24.961086, 
+        "longitude": -53.467160,
+        "address": "Rua Salgado Filho , 1577/ - Incra" 
+    },
+    {
+        "city": "Curitiba",
+        "latitude": -25.410301, 
+        "longitude": -49.311719,
+        "address": "Rua Angelo Domingos Durigan, 460/ - Santa Felicidade" 
+    },
+    {
+        "city": "Foz do Iguaçu",
+        "latitude": -25.535934, 
+        "longitude": -54.554539,
+        "address": "Av. Republica Argentina , 3830 /Sala 110 - Jardim Panorama" 
+    },
+    {
+        "city": "Pato Branco",
+        "latitude": -26.219242, 
+        "longitude": -52.668918,
+        "address": "Rua. Osvaldo Aranha, 906/ - CENTRO" 
+    },
+    {
+        "city": "Ponta Grossa",
+        "latitude": -25.082099, 
+        "longitude": -50.165909,
+        "address": "Rua Balduíno Taques, 2002/ - São José" 
+    }
+    ,
+    {
+        "city": "",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "" 
+    }
+]
