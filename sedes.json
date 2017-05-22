@@ -184,6 +184,192 @@
         "latitude": -25.082099, 
         "longitude": -50.165909,
         "address": "Rua Balduíno Taques, 2002/ - São José" 
+    },
+    {
+        "city": "Águas de São Pedro",
+        "latitude": -22.599440, 
+        "longitude": -47.875761,
+        "address": "Praça dos Rouxinois - Shopping Bellagio, s/n - S-10/S.Bellagio - Centro" 
+    },
+    {
+        "city": "Bauru",
+        "latitude": -22.327305, 
+        "longitude": -49.060011,
+        "address": "Rua Raposo Tavares, 9-41/-- - Jardim " 
+    },
+    {
+        "city": "Campinas",
+        "latitude": -22.879358,  
+        "longitude": -47.060319,
+        "address": "Rua Teofilo Braga, 327/ - Taquaral" 
+    },
+    {
+        "city": "Franca",
+        "latitude": -20.538855,  
+        "longitude": -47.396974,
+        "address": "Rua Marechal Deodoro, 1969/ - Centro" 
+    },
+    {
+        "city": "Ribeirão Preto",
+        "latitude": -21.195326, 
+        "longitude": -47.817398,
+        "address": "Rua Nélio Guimarães, 276/ - Alto da Boa Vista" 
+    },
+    {
+        "city": "Santos",
+        "latitude": -23.955371, 
+        "longitude": -46.348266,
+        "address": "Rua Benedito Ernesto Guimarães, 124/ - Marapé" 
+    },
+    {
+        "city": "São José do Rio Pardo",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "Rua Abdiel Cavalcanti Braga, 22/Térreo - Centro" 
+    },
+    {
+        "city": "São José do Rio Preto",
+        "latitude": -20.822505, 
+        "longitude": -49.402691,
+        "address": "AVENIDA DA LUZ, 821/Sala 3 - Alto Rio Preto" 
+    },
+    {
+        "city": "São Paulo",
+        "latitude": -23.576233, 
+        "longitude": -46.645743,
+        "address": "Rua Coronel Oscar Porto, 818/ - Paraíso" 
+    },
+    {
+        "city": "São Paulo",
+        "latitude": -23.617098, 
+        "longitude": -46.629957,
+        "address": "Rua General Chagas Santos, 590 - Saúde" 
+    },
+    {
+        "city": "Taubaté",
+        "latitude": -23.032453, 
+        "longitude": -45.557824,
+        "address": "Rua Antoninho Rocha Marmo, 30/ - Centro" 
+    },
+    {
+        "city": "Cabo Frio",
+        "latitude": -22.884205, 
+        "longitude": -42.026742,
+        "address": "Av. Teixeira e Souza , 928/loja 1 - Vila Nova" 
+    },
+    {
+        "city": "Campo do Goytacazes",
+        "latitude": -21.770302, 
+        "longitude": -41.316494,
+        "address": "Av. Vinte e Oito de Março (TURFECENTRO SHOPPING), 13/19 Lj34/LOJA 34 - TURF-CLUB" 
+    },
+    {
+        "city": "Miguel Pereira",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "Rua Carlos Delamare, 435/cj 5 - Centro" 
+    },
+    {
+        "city": "Niterói",
+        "latitude": -22.914653, 
+        "longitude": -43.090924,
+        "address": "Rua Tupinambás, 04/casa - São Francisco" 
+    },
+    {
+        "city": "Nova Fraiburgo",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "Rua Major Augusto Marques Braga, 18/sl. 203 - Centro" 
+    },
+    {
+        "city": "Nova Iguaçu",
+        "latitude": -22.760967, 
+        "longitude": -43.451096,
+        "address": "Rua Drº Paulo Fróes Machado, 58 Sl. 502/Sala 502 - Centro" 
+    },
+    {
+        "city": "Petrópolis",
+        "latitude": -22.503960, 
+        "longitude": -43.190473,
+        "address": "Av. Piabanha, 890/ - Centro" 
+    },
+    {
+        "city": "Resende",
+        "latitude": -22.463203, 
+        "longitude": -44.445828,
+        "address": "Rua Alan Kardec, 50/sala 310 - Jardim Tropical" 
+    },
+    {
+        "city": "Rio de Janeiro",
+        "latitude": -23.008112, 
+        "longitude": -43.319174,
+        "address": "R. John Kennedy, 461/ - Barra da Tijuca" 
+    },
+    {
+        "city": "Rio de Janeiro",
+        "latitude": -22.952591, 
+        "longitude": -43.183327,
+        "address": "Rua General Polidoro , 36/ - Botafogo" 
+    },
+    {
+        "city": "Rio de Janeiro",
+        "latitude": -22.901152,  
+        "longitude": -43.180110,
+        "address": "Av. Presidente Vargas, 446/Sala 1902 - Centro" 
+    },
+    {
+        "city": "Rio de Janeiro",
+        "latitude": -22.804465, 
+        "longitude": -43.204377,
+        "address": "Estrada do Galeão, 2315/203 - Ilha do Governador" 
+    },
+    {
+        "city": "Rio de Janeiro",
+        "latitude": -22.923428,  
+        "longitude": -43.229161,
+        "address": "Rua Conde de Bonfim, 232/sala 407 - Tijuca" 
+    },
+    {
+        "city": "Teresópolis",
+        "latitude": -22.413421, 
+        "longitude": -42.967908,
+        "address": "Av. Delfim Moreira, , 266/sala 405 - Várzea" 
+    },
+    {
+        "city": "Três Rios",
+        "latitude": -22.114909,  
+        "longitude": -43.209378,
+        "address": "Praça Martins Paixão, 05/101/101 - Centro" 
+    },
+    {
+        "city": "",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "" 
+    },
+    {
+        "city": "",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "" 
+    },
+    {
+        "city": "",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "" 
+    },
+    {
+        "city": "",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "" 
+    },
+    {
+        "city": "",
+        "latitude": 0, 
+        "longitude": 0,
+        "address": "" 
     }
     ,
     {
