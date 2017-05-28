@@ -1,381 +1,920 @@
 [
     {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Balneário Camboriú",
         "latitude": -26.994483,  
         "longitude": -48.634835,
         "address": "Rua 1950 , 634/casa - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Blumenau",
         "latitude": -26.893435, 
         "longitude": -49.083006,
         "address": "Rua São Paulo, 2963 - Itoupava Seca" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Brusque",
         "latitude": -27.084590, 
         "longitude": -48.912153,
         "address": "Rua: Otto Renaux, 500 sala 13, 500/sala 13 - centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Chapecó",
         "latitude": -27.107808, 
         "longitude": -52.619865,
         "address": "R. Clevelândia , 1389/D - SAIC" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Concórdia",
         "latitude": -27.230048, 
         "longitude": -52.025951,
         "address": "Rua Getúlio Vargas, 85/2º andar - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Criciúma",
         "latitude": -28.674334, 
         "longitude": -49.372800,
         "address": "Avenida Getúlio Vargas, 485/Ed. Bologna , Sala 41 - centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Florianópolis",
         "latitude": -27.612833, 
         "longitude": -48.525819,
         "address": "Rua Dep. Antonio Edu Vieira , 150/ - Pantanal" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Imbituba",
         "latitude": -28.240155, 
         "longitude": -48.669264,
         "address": "Avenida Santa Catarina, 819/ - Paes Leme" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Jaraguá do Sul",
         "latitude": -26.478897, 
         "longitude": -49.108806,
         "address": "Therezita Menegotti Rocha, 110/Casa - Água Verde" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Joaçaba",
         "latitude": -27.172333, 
         "longitude": -51.507798,
         "address": "Av. Barão do Rio Branco, 478/3º andar - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Joinville",
         "latitude": -26.267679, 
         "longitude": -48.836135,
         "address": "Rua Piratuba, 1.100/Prédio - Bom Retiro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Lages",
         "latitude": -26.267684,  
         "longitude": -48.836136,
         "address": "R. José Ma. Antunes Ramos, 35 - Universitário" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Mafra",
         "latitude": -26.127476, 
         "longitude": -49.805775,
         "address": "Rua Siqueira Campos, 333/ - Alto de Mafra" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Rio do Sul",
         "latitude": -27.209136, 
         "longitude": -49.634796,
         "address": "Al. Bela Aliança, 1162/ - Jardim América" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "São Bento do Sul",
         "latitude": -26.246098, 
         "longitude": -49.373233,
         "address": "Rua Doutor Cominese, 90/ - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Seara",
         "latitude": -27.147996, 
         "longitude": -52.309471,
         "address": "R. Vicente Rech , 230/Cx Postal 04 - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Timbó",
         "latitude": -26.831822, 
         "longitude": -49.265328,
         "address": "Rua Eduardo Frederico Mayr, 164 - Quintino" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Tubarão",
         "latitude": -28.479424, 
         "longitude": -49.013450,
         "address": "Rua Antonio Hulse, 541/ - Humaitá" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Santa Catarina",
         "city": "Videira",
         "latitude": -27.011091, 
         "longitude": -51.151056,
         "address": "Avenida Dom Pedro II, 47/apto 01 - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio Grande do Sul",
         "city": "Bagé",
         "latitude": -31.313132,  
         "longitude": -54.093911,
         "address": "Rua Barão do Itaqui, 730/ - Getúlio Vargas" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio Grande do Sul",
         "city": "Caxias do Sul",
         "latitude": -29.161749, 
         "longitude": -51.178196,
         "address": "Avenida São João, 1669/Casa - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio Grande do Sul",
         "city": "Erechim",
         "latitude": -27.638038, 
         "longitude": -52.280728,
         "address": "Rua Salgado Filho, 737/ - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio Grande do Sul",
         "city": "Passo Fundo",
         "latitude": -28.264062, 
         "longitude": -52.395692,
         "address": "Rua Coronel Pelegrini, 473/ - Vila Rodrigues" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio Grande do Sul",
         "city": "Porto Alegre",
         "latitude": -30.028311, 
         "longitude": -51.203678,
         "address": "Rua Mostardeiro, 366/sala 501 - Moinhos de Vento" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio Grande do Sul",
         "city": "Rio Grande",
         "latitude": -32.031584, 
         "longitude": -52.096354,
         "address": "Rua General Bacelar, 293/ - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio Grande do Sul",
         "city": "São Leopoldo",
         "latitude": -29.768000, 
         "longitude": -51.132889,
         "address": "Rua São José, 617/ - São José" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Paraná",
         "city": "Cascavel",
         "latitude": -24.961086, 
         "longitude": -53.467160,
         "address": "Rua Salgado Filho , 1577/ - Incra" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Paraná",
         "city": "Curitiba",
         "latitude": -25.410301, 
         "longitude": -49.311719,
         "address": "Rua Angelo Domingos Durigan, 460/ - Santa Felicidade" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Paraná",
         "city": "Foz do Iguaçu",
         "latitude": -25.535934, 
         "longitude": -54.554539,
         "address": "Av. Republica Argentina , 3830 /Sala 110 - Jardim Panorama" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Paraná",
         "city": "Pato Branco",
         "latitude": -26.219242, 
         "longitude": -52.668918,
         "address": "Rua. Osvaldo Aranha, 906/ - CENTRO" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Paraná",
         "city": "Ponta Grossa",
         "latitude": -25.082099, 
         "longitude": -50.165909,
         "address": "Rua Balduíno Taques, 2002/ - São José" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "Águas de São Pedro",
         "latitude": -22.599440, 
         "longitude": -47.875761,
         "address": "Praça dos Rouxinois - Shopping Bellagio, s/n - S-10/S.Bellagio - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "Bauru",
         "latitude": -22.327305, 
         "longitude": -49.060011,
         "address": "Rua Raposo Tavares, 9-41/-- - Jardim " 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "Campinas",
         "latitude": -22.879358,  
         "longitude": -47.060319,
         "address": "Rua Teofilo Braga, 327/ - Taquaral" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "Franca",
         "latitude": -20.538855,  
         "longitude": -47.396974,
         "address": "Rua Marechal Deodoro, 1969/ - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "Ribeirão Preto",
         "latitude": -21.195326, 
         "longitude": -47.817398,
         "address": "Rua Nélio Guimarães, 276/ - Alto da Boa Vista" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "Santos",
         "latitude": -23.955371, 
         "longitude": -46.348266,
         "address": "Rua Benedito Ernesto Guimarães, 124/ - Marapé" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "São José do Rio Pardo",
-        "latitude": 0, 
-        "longitude": 0,
+        "latitude": -21.596037, 
+        "longitude": -46.889496,
         "address": "Rua Abdiel Cavalcanti Braga, 22/Térreo - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "São José do Rio Preto",
         "latitude": -20.822505, 
         "longitude": -49.402691,
         "address": "AVENIDA DA LUZ, 821/Sala 3 - Alto Rio Preto" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "São Paulo",
         "latitude": -23.576233, 
         "longitude": -46.645743,
         "address": "Rua Coronel Oscar Porto, 818/ - Paraíso" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "São Paulo",
         "latitude": -23.617098, 
         "longitude": -46.629957,
         "address": "Rua General Chagas Santos, 590 - Saúde" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "São Paulo",
         "city": "Taubaté",
         "latitude": -23.032453, 
         "longitude": -45.557824,
         "address": "Rua Antoninho Rocha Marmo, 30/ - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Cabo Frio",
         "latitude": -22.884205, 
         "longitude": -42.026742,
         "address": "Av. Teixeira e Souza , 928/loja 1 - Vila Nova" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Campo do Goytacazes",
         "latitude": -21.770302, 
         "longitude": -41.316494,
         "address": "Av. Vinte e Oito de Março (TURFECENTRO SHOPPING), 13/19 Lj34/LOJA 34 - TURF-CLUB" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Miguel Pereira",
-        "latitude": 0, 
-        "longitude": 0,
+        "latitude": -22.459065, 
+        "longitude": -43.471733,
         "address": "Rua Carlos Delamare, 435/cj 5 - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Niterói",
         "latitude": -22.914653, 
         "longitude": -43.090924,
         "address": "Rua Tupinambás, 04/casa - São Francisco" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Nova Fraiburgo",
-        "latitude": 0, 
-        "longitude": 0,
+        "latitude": -22.280059, 
+        "longitude": -42.533036,
         "address": "Rua Major Augusto Marques Braga, 18/sl. 203 - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Nova Iguaçu",
         "latitude": -22.760967, 
         "longitude": -43.451096,
         "address": "Rua Drº Paulo Fróes Machado, 58 Sl. 502/Sala 502 - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Petrópolis",
         "latitude": -22.503960, 
         "longitude": -43.190473,
         "address": "Av. Piabanha, 890/ - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Resende",
         "latitude": -22.463203, 
         "longitude": -44.445828,
         "address": "Rua Alan Kardec, 50/sala 310 - Jardim Tropical" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Rio de Janeiro",
         "latitude": -23.008112, 
         "longitude": -43.319174,
         "address": "R. John Kennedy, 461/ - Barra da Tijuca" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Rio de Janeiro",
         "latitude": -22.952591, 
         "longitude": -43.183327,
         "address": "Rua General Polidoro , 36/ - Botafogo" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Rio de Janeiro",
         "latitude": -22.901152,  
         "longitude": -43.180110,
         "address": "Av. Presidente Vargas, 446/Sala 1902 - Centro" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Rio de Janeiro",
         "latitude": -22.804465, 
         "longitude": -43.204377,
         "address": "Estrada do Galeão, 2315/203 - Ilha do Governador" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Rio de Janeiro",
         "latitude": -22.923428,  
         "longitude": -43.229161,
         "address": "Rua Conde de Bonfim, 232/sala 407 - Tijuca" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Teresópolis",
         "latitude": -22.413421, 
         "longitude": -42.967908,
         "address": "Av. Delfim Moreira, , 266/sala 405 - Várzea" 
-    },
-    {
+    }, {
+        "country": "Brasil",
+		"state": "Rio de Janeiro",
         "city": "Três Rios",
         "latitude": -22.114909,  
         "longitude": -43.209378,
         "address": "Praça Martins Paixão, 05/101/101 - Centro" 
-    },
-    {
-        "city": "",
-        "latitude": 0, 
-        "longitude": 0,
+    }, {
+        "country": "Brasil",
+		"state": "Espírito Santo",
+        "city": "Guarapari",
+        "latitude": -20.661049,  
+        "longitude": -40.498253,
+        "address": "Av. Ewerson de Abreu Sodré,Ed. Cristal, 484/Salas 205 e 206 - Muquiçaba" 
+    }, {
+        "country": "Brasil",
+		"state": "Ditrito Federal",
+        "city": "Brasília",
+        "latitude": -15.776677, 
+        "longitude": -47.890444,
+        "address": "SHCG/NORTE - Quadra 704 , sem número - Área de Escola" 
+    }, {
+        "country": "Brasil",
+		"state": "Ditrito Federal",
+        "city": "Brasília",
+        "latitude": -15.717524, 
+        "longitude": -47.883336,
+        "address": "Centro de Atividades 05, Bloco J1, sala 105/ - Lago Norte" 
+    }, {
+        "country": "Brasil",
+		"state": "Ditrito Federal",
+        "city": "Brasília",
+        "latitude": -15.830243, 
+        "longitude": -48.052540,
+        "address": "Quadra C1, Lotes 1/12 - Salas , 627/630/Taguatinga Trade Center - Taguatinga" 
+    }, {
+        "country": "Brasil",
+		"state": "Ceará",
+        "city": "Fortaleza",
+        "latitude": -3.744158, 
+        "longitude": -38.510045,
+        "address": "Av. Barão de Studart, , 2360/Sala 1405-Ed. Torre Empresarial Quixadá - Joaquim Távora" 
+    }, {
+        "country": "Brasil",
+		"state": "Mato Grosso do Sul",
+        "city": "Campo Grande",
+        "latitude": -20.437824, 
+        "longitude": -54.572095,
+        "address": "Rua Nagib Ourives , 129/ - Carandá Bosque I" 
+    }, {
+        "country": "Brasil",
+		"state": "Piauí",
+        "city": "Teresina",
+        "latitude": -5.070511, 
+        "longitude": -42.793605,
+        "address": "Rua José Paulino, 845 1º and/Sala 110 - Fátima" 
+    }, {
+        "country": "Brasil",
+		"state": "Tocantins",
+        "city": "Palmas",
+        "latitude": -10.245116, 
+        "longitude": -48.331833,
+        "address": "1.002 Sul, Rua NS-B, Conj. 2, Lote 06/ - Plano Diretor Sul" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Goiânia",
+        "latitude": -16.714849, 
+        "longitude": -49.237804,
+        "address": "Av. São João, 311/Q13 Lote 23-E - Alto da Gloria" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Goiânia",
+        "latitude": -16.672056, 
+        "longitude": -49.267246,
+        "address": "Rua 17-A, 959/ - Setor Aeroporto" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Iporá",
+        "latitude": -16.447287, 
+        "longitude": -51.127056,
+        "address": "Avenida Dr. Neto, Qd. 06, Lt. 56, Caixa P.15/Cx. P. 15 - St. dos Funcionários" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Itaperaí",
+        "latitude": -16.026975, 
+        "longitude": -49.802773,
+        "address": "Rua Imaculado Coração de Maria, s/n/Lt 12 Qd 3 - Centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Jataí",
+        "latitude": -17.890958, 
+        "longitude": -51.739410,
+        "address": "Rua A, 109/ - Residencial Barcelona" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Luziânia",
+        "latitude": -16.252094, 
+        "longitude": -47.957076,
+        "address": "Rua 2, quadra 01, lote 07, 2/ - Setor Viegas" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Mineiros",
+        "latitude": -17.564869, 
+        "longitude": -52.554029,
+        "address": "7ª Avenida, 47/ - Centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Morrinhos",
+        "latitude": -17.718128, 
+        "longitude": -49.109560,
+        "address": "AV. PERIMETRAL, S/Nº/ - SET. SUL DOS POMARES" 
+    }, {
+        "country": "Brasil",
+		"state": "Goiás",
+        "city": "Rio Verde",
+        "latitude": -17.794637, 
+        "longitude": -50.948174,
+        "address": "Rua Elizabeth Campos, s/nº/Qd. 1 Lt. - Setor Morada do Sol" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Araxá",
+        "latitude": -19.589967, 
+        "longitude": -46.941393,
+        "address": "Rua Cassiano Lemos, 225/ - Centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Belo Horizonte",
+        "latitude": -19.920500, 
+        "longitude": -43.937410,
+        "address": "Av. Afonso Pena, , 867/15º andar - sala 1514 - Centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Belo Horizonte",
+        "latitude": -19.893830, 
+        "longitude": -43.924076,
+        "address": "Av. José Cândido da Silveira, 330/ - Cidade Nova" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Belo Horizonte",
+        "latitude": -19.928004, 
+        "longitude": -43.925940,
+        "address": "Rua Piauí , 742 - Funcionários" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Belo Horizonte",
+        "latitude": -19.938245, 
+        "longitude": -43.957405,
+        "address": "R. Almirante Alexandrino, 725/ - Gutierrez" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Divinópolis",
+        "latitude": -20.141282, 
+        "longitude": -44.901095,
+        "address": "Rua Santa Catarina, 1767/Bairro - SIDIL" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Ituiutaba",
+        "latitude": -18.974089, 
+        "longitude": -49.462620,
+        "address": "Av. 15, N 895, Sala 1105 - Centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Juiz de Fora",
+        "latitude": -21.754593, 
+        "longitude": -43.365072,
+        "address": "R. Ver. José Gasparete, 410 - Vale do Ipê" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Lavras",
+        "latitude": -21.241422, 
+        "longitude": -45.003156,
+        "address": "Rua Dr. Fernando Haddad, 145, Caixa Postal 98 - centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Monte Alegre de Minas",
+        "latitude": -18.871405, 
+        "longitude": -48.878496,
+        "address": "Rua Benjamin Constant, , 207/A - Centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Ouro Branco",
+        "latitude": -20.512827, 
+        "longitude": -43.701414,
+        "address": "Av. Patriótica, , 1051/casa - Siderurgia" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Paracatu",
+        "latitude": -17.224801, 
+        "longitude": -46.865456,
+        "address": "Rua Lindolfo Garcia, 680/ - Alto do Córrego" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Patrocínio",
+        "latitude": -18.953706,
+        "longitude": -46.985666,
+        "address": "Av. José Amando de Queiroz , 12 - São Vicente" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Pedro Leopoldo",
+        "latitude": -19.630850, 
+        "longitude": -44.037987,
+        "address": "Rua Arthur Maloy , 110/ - São Geraldo" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Pouso Alegre",
+        "latitude": -22.227828, 
+        "longitude": -45.934651,
+        "address": "Rua Coronel Ribeiro de Abreu, 129/ - Centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Sete Lagoas",
+        "latitude": -19.450511, 
+        "longitude": -44.248572,
+        "address": "Rua Francisco Vicente, 332 /casa - N.S.Graças" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Timóteo",
+        "latitude": -19.550599, 
+        "longitude": -42.644977,
+        "address": "Av. Antonieta Martins de Carvalho , 10 - Timirim" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Uberaba",
+        "latitude": -19.757581, 
+        "longitude": -47.933055,
+        "address": "Rua Capitão Domingos, 384/ - Abadia" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Uberlândia",
+        "latitude": -18.930516, 
+        "longitude": -48.266945,
+        "address": "R. Alexandre de Oliveira Marquez, 113 - Vigilato Pereira" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Unaí",
+        "latitude": -16.361251, 
+        "longitude": -46.900250,
+        "address": "Rua Nossa Senhora do Carmo, 224/Sala 4 C - Centro" 
+    }, {
+        "country": "Brasil",
+		"state": "Minas Gerais",
+        "city": "Varginha",
+        "latitude": -21.559160, 
+        "longitude": -45.443972,
+        "address": "Rua Alberto Cabre, 501/Sala 202 - Vila Pinto" 
+    }, {
+        "country": "Uruguai",
+		"state": "",
+        "city": "Montevidéu",
+        "latitude": -34.890305, 
+        "longitude": -56.160178,
+        "address": "Dr. Manuel Albo 2729" 
+    }, {
+        "country": "Uruguai",
+		"state": "",
+        "city": "Montevidéu",
+        "latitude": -34.890762, 
+        "longitude": -56.159374,
+        "address": "Dr. Manuel Albo 2707" 
+    }, {
+        "country": "Argentina",
+		"state": "Buenos Aires",
+        "city": "Buenos Aires",
+        "latitude": -34.9923272,
+        "longitude": -59.6517097,
+        "address": "Avda. Cabildo 3846" 
+    }, {
+        "country": "Argentina",
+		"state": "Buenos Aires",
+        "city": "Buenos Aires",
+        "latitude": -34.6450812,
+        "longitude": -58.4569064,
+        "address": "Avda. Coronel Díaz 1774" 
+    }, {
+        "country": "Argentina",
+		"state": "Córdoba",
+        "city": "Córdoba",
+        "latitude": -31.410204,
+        "longitude": -64.187791,
+        "address": "Sucre 373" 
+    }, {
+        "country": "Argentina",
+		"state": "Jujuy",
+        "city": "San Salvador de Jujuy",
+        "latitude": -24.184938,
+        "longitude": -65.30565,
+        "address": "Balcarce 340 - Piso 1º Of. 2" 
+    }, {
+        "country": "Argentina",
+		"state": "Mendonza",
+        "city": "Godoy Cruz",
+        "latitude": -32.912943,
+        "longitude": -68.843959,
+        "address": "Tte. Primero Ibañez 99" 
+    }, {
+        "country": "Argentina",
+		"state": "Entre Ríos",
+        "city": "Paraná",
+        "latitude": -31.733531,
+        "longitude": -60.52734,
+        "address": "9 de Julio 23" 
+    }, {
+        "country": "Argentina",
+		"state": "Buenos Aires",
+        "city": "Quilmes",
+        "latitude": -34.720045,
+        "longitude": -58.260223,
+        "address": "Moreno 435" 
+    }, {
+        "country": "Argentina",
+		"state": "Santa Fé",
+        "city": "Rosário",
+        "latitude": -32.942008,
+        "longitude": -60.655951,
+        "address": "Santiago 710" 
+    }, {
+        "country": "Argentina",
+		"state": "Santa Fé",
+        "city": "Santa Fé",
+        "latitude": -31.643044,
+        "longitude": -60.707708,
+        "address": "Irigoyen Freyre 2759" 
+    }, {
+        "country": "Espanha",
+		"state": "",
+        "city": "Barcelona",
+        "latitude": 41.382347, 
+        "longitude": 2.136084,
+        "address": "Calle Comptes del Bell-lloc, 133 - Entlo. 4º" 
+    }, {
+        "country": "México",
+		"state": "",
+        "city": "México D.F.",
+        "latitude": 19.401030, 
+        "longitude": -99.169679,
+        "address": "Huatusco 35 Col. Roma Sur" 
+    }, {
+        "country": "Venezuela",
+		"state": "",
+        "city": "Caracas",
+        "latitude": 10.498657, 
+        "longitude": -66.881633,
+        "address": "Avenida Libertador, Entre Palmas y Acacias, Edificio YETESA, Piso 1, oficina 1-B1" 
+    }, {
+        "country": "EUA",
+		"state": "Flórida",
+        "city": "Miami",
+        "latitude": 26.010332, 
+        "longitude": -80.141860,
+        "address": "1720 Harrison Street, suite 1805 - Hollywood, Florida" 
+    }, {
+        "country": "Israel",
+		"state": "",
+        "city": "Kfar Saba",
+        "latitude": 32.178201, 
+        "longitude": 34.907620,
+        "address": "Rehov Najshon, 15" 
+    }, {
+        "country": "Israel",
+		"state": "",
+        "city": "Natanya",
+        "latitude": 32.321456, 
+        "longitude": 34.85320,
+        "address": "Rehov Weizman, 94  apt/21" 
+    }, {
+        "country": "Panamá",
+		"state": "",
+        "city": "Cidade do Panamá",
+        "latitude": 8.993810, 
+        "longitude": -79.505730,
+        "address": "Edificio Porto Fino, 6-D<br>Calle 74 Este con Ave. 31 Sur (Calle Andrés Mojica), San Francisco" 
+    }, {
+        "country": "EUA",
+		"state": "Texas",
+        "city": "Austin",
+        "latitude": 30.267153, 
+        "longitude": -97.743082,
+        "address": "700 Lavaca, Suite 1400" 
+    }, {
+        "country": "EUA",
+		"state": "Nova York",
+        "city": "Nova York",
+        "latitude": 40.745908, 
+        "longitude": -73.982191,
         "address": "" 
-    },
-    {
-        "city": "",
-        "latitude": 0, 
-        "longitude": 0,
+    }, {
+        "country": "Paraguai",
+		"state": "",
+        "city": "Hohenau",
+        "latitude": -27.078554, 
+        "longitude": -55.645246,
         "address": "" 
-    },
-    {
-        "city": "",
-        "latitude": 0, 
-        "longitude": 0,
+    }, {
+        "country": "Chile",
+		"state": "",
+        "city": "Santiago",
+        "latitude": -33.469093, 
+        "longitude": -70.641992,
         "address": "" 
-    },
-    {
-        "city": "",
-        "latitude": 0, 
-        "longitude": 0,
+    }, {
+        "country": "Costa Rica",
+		"state": "",
+        "city": "San José",
+        "latitude": 9.927297, 
+        "longitude": -84.081969,
         "address": "" 
-    },
-    {
-        "city": "",
-        "latitude": 0, 
-        "longitude": 0,
+    }, {
+        "country": "EUA",
+		"state": "Ilinois",
+        "city": "Chicago",
+        "latitude": 41.878370, 
+        "longitude": -87.629884,
         "address": "" 
-    }
-    ,
-    {
-        "city": "",
-        "latitude": 0, 
-        "longitude": 0,
+    }, {
+        "country": "Portugal",
+		"state": "",
+        "city": "Lisboa",
+        "latitude": 38.724631, 
+        "longitude": -9.139598,
+        "address": "" 
+    }, {
+        "country": "Alemanha",
+		"state": "",
+        "city": "Frankfurt",
+        "latitude": 50.110908, 
+        "longitude": 8.682095,
+        "address": "" 
+    }, {
+        "country": "Alemanha",
+		"state": "",
+        "city": "Aachen",
+        "latitude": 50.775319, 
+        "longitude": 6.083866,
+        "address": "" 
+    }, {
+        "country": "Alemanha",
+		"state": "",
+        "city": "Munique",
+        "latitude": 48.136593, 
+        "longitude": 11.577074,
+        "address": "" 
+    }, {
+        "country": "Itália",
+		"state": "",
+        "city": "Roma",
+        "latitude": 41.901546, 
+        "longitude": 12.460753,
+        "address": "" 
+    }, {
+        "country": "França",
+		"state": "",
+        "city": "Paris",
+        "latitude": 48.856614, 
+        "longitude": 2.352233,
+        "address": "" 
+    }, {
+        "country": "Austrália",
+		"state": "",
+        "city": "Sydney",
+        "latitude": -33.873544, 
+        "longitude": 151.206911,
+        "address": "" 
+    }, {
+        "country": "Alemanha",
+		"state": "",
+        "city": "Köln",
+        "latitude": 50.937639, 
+        "longitude": 6.960150,
+        "address": "" 
+    }, {
+        "country": "Guatemala",
+		"state": "",
+        "city": "Cidade da Guatemala",
+        "latitude": 14.624905, 
+        "longitude": -90.532887,
+        "address": "" 
+    }, {
+        "country": "Canadá",
+		"state": "",
+        "city": "Toronto",
+        "latitude": 43.652491, 
+        "longitude": -79.383436,
+        "address": "" 
+    }, {
+        "country": "EUA",
+		"state": "Washington",
+        "city": "Seatle",
+        "latitude": 47.614763, 
+        "longitude": -122.475980,
+        "address": "" 
+    }, {
+        "country": "Canadá",
+		"state": "",
+        "city": "Vancouver",
+        "latitude": 49.257714, 
+        "longitude": -123.193940,
         "address": "" 
     }
 ]
